@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — موقع شركة مع نظام CRM لإدارة العملاء المحتملين
+# 🛠️ Technologies Used — Company Website with Lead CRM System
 
 - Angular
 - TypeScript
